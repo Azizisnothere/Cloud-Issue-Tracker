@@ -1,2 +1,3 @@
-# Cloud-Issue-Tracker
+# Cloud-Issue-Tracker 
 A small internal application with three eventual functions: create an issue, view issues, and change issue status.
+Developed as a practical lab work within the British University in Egypt, in regard to the Cloud Computing & Security module.
